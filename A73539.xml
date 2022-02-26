@@ -1,0 +1,478 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the especiall vntruths contained in Morgans Bill exhibited in Parliament against Bowd[ler and] Meggs; Iones, and others, with answeres thereunto as hereunder followeth. Viz.</title>
+            <author>Bowdler, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73539</idno>
+            <idno type="STC">STC 3432.7</idno>
+            <idno type="STC">ESTC S125196</idno>
+            <idno type="EEBO-CITATION">99898461</idno>
+            <idno type="PROQUEST">99898461</idno>
+            <idno type="VID">173375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2038:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the especiall vntruths contained in Morgans Bill exhibited in Parliament against Bowd[ler and] Meggs; Iones, and others, with answeres thereunto as hereunder followeth. Viz.</title>
+                  <author>Bowdler, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Morgan, George, fl. 1621 --  Early works to 1800.</term>
+               <term>England and Wales. --  Court of Chancery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:173375:1" rendition="simple:additions"/>
+            <head>A Declaration of the eſpeciall vntruths contained in <hi>Morgans</hi> Bill exhibited in Parliament againſt <hi>Bowd<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Meggs; Iones, <hi>and others, with Anſweres thereunto as hereunder followeth.</hi> Viz.</head>
+            <p>
+               <label>Obiection.</label>
+            </p>
+            <p>
+               <hi>THe title of his Bill and Briefe, declareth</hi> Morgan <hi>to be firſt Plaintiffe againſt</hi> Bowdler <hi>and the rest, and</hi> Bowdler <hi>to be Plaintiffe againſt him afterwards, vpon a Croſſe Bill.</hi>
+            </p>
+            <p>
+               <label>Anſwere.</label>
+            </p>
+            <p>
+               <hi>BOwdler</hi> was firſt Plaintiffe againſt <hi>Morgan;</hi> and it was fiue Monethes after, before <hi>Morgan</hi> preferred a Croſſe Bill againſt <hi>Bowdler, Meggs, Iones,</hi> and the reſt.</p>
+            <p>
+               <label>Obiect. </label>
+               <note place="margin">1609. 6. <hi>May.</hi>
+               </note>Eſſington <hi>and</hi> Barlow <hi>were Partners with</hi> Bowdler, Turner, Iones, <hi>and Sir</hi> Iohn Bourchier, <hi>in the Farme of the Alloms.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label>Neither <hi>Eſſington,</hi> nor <hi>Barlow,</hi> were Partners with them, as by anſwere vpon Oath made in Chancery appeares.</p>
+            <p>
+               <label>Obiect. </label>Meggs <hi>lent his name and credit to</hi> Bowdler <hi>without limitation, to take vp Monies to ſupply the Allom buſineſſe, whereby</hi> Meggs, Bowdler, <hi>and the reſt became as one ioynt body, and were knowne both in England and in forreine parts, by the name of the Allom Companie, or</hi> Bowdler <hi>and</hi> Company.</p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 
+               </label>
+               <hi>Meggs</hi> being Father in Law to <hi>Bowdler,</hi> did out of loue to him lend him his name, to ſupport his credit, yet was not <hi>Meggs</hi> a Partner with <hi>Bowdler,</hi> or any of Allom Farmers in the Allom buſineſſe, and therefore they were not as one ioynt body.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1609. <hi>October.</hi>
+               </note> Bowdler <hi>and</hi> Company <hi>made choice of</hi> Morgan <hi>to bee their Factor at Middleborough, and when</hi> Morgans <hi>credit would not ſerue to procure Monies enough to pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Bils of Exchange; he wrote to them of it, directing his Letters to</hi> Bowdler <hi>and</hi> Company, <hi>and what euer he required by the ſaid Letters to be performed by</hi> Meggs, Turner <hi>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any of them, the ſame was performed by them.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> 
+               <hi>Morgan</hi> was Seruant to <hi>Bowdler,</hi> long before he had any dealings in the Allom buſineſſe; and was by him employed at Middleborough, in other affaires, and it is true that afterwards he was alſo employed to pay Bils of Exchange for the Allom buſineſſe; but it was o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly by his Maſter <hi>Bowdler,</hi> and not by appointment of the Allom Company. Beſides when <hi>Morgan</hi> did direct ſome few Bils of Exchange from Middleborough to be paid here in London by <hi>Meggs</hi> and <hi>Turner;</hi> they ſeuerally wrote to him that he ſhould doe ſo no more, for if he did they would not accept the Bils nor pay them, ſo that whatſoeuer <hi>Morgan</hi> required of them was not performed.</p>
+            <p>
+               <label>Obiect.</label> 
+               <hi>To enable</hi> Morgans <hi>credit at Middleborough, they ſent him ſeuerall vnlimited Letters of credit, ſome in one kinde ſome in another; thereby declaring to all men that who<g ref="char:EOLhyphen"/>ſoeuer trusted their Factor</hi> Morgan, <hi>they all thereby obliged themſelues for repayment thereof.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> Albeit ſeuerall Letters of Credit, were ſent to <hi>Morgan,</hi> yet they were not all vnlimited. Neither all of them as generall warrant to all men that would tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Morgan.</hi> For <hi>Meggs</hi> did only ſubſcribe to one Letter which was ſent to one particular man; and that was to remayne in force but till it ſhould be recalled, which was recal<g ref="char:EOLhyphen"/>led within three Moneths after, whereby neither any man elſe could challenge <hi>Meggs</hi> for his Debtor, nor that particular man for longer time then till repayment of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſumme only which was lent within the time aforeſaid, ſo alſo, ſome other of the Partners neuer gaue any Letter of Credit to <hi>Morgan,</hi> and that which was giuen by othe them was alſo recalled, and <hi>Morgan</hi> promiſed to make no further vſe of it.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1611. 5. <hi>February.</hi>
+               </note> Morgan <hi>came into England, and accompted for all things which he had not formerly accompted for. And was made free of London by</hi> Bowdler, <hi>and receiued vp his Inde and the Bonds of his Friends, and</hi> Bowdler <hi>publickly acknowledged</hi> Morgans <hi>faithfull ſeruice, which according to cuſtome of London is a releaſe for all time paſt.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> About that time <hi>Morgan</hi> came into England, and did deliuer vnto <hi>Bowdler</hi> a Copy of an Accompt, which he pretended to be iuſt and perfect; but <hi>Morgan</hi> neythe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> required <hi>Bowdler</hi> to accompt with him the reupon, neyther could <hi>Bowdler</hi> then haue done it. For hee had not receiued Accompts from other his Factours in ot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts beyond Seas; with whom <hi>Morgans</hi> Accompts muſt haue correſpondence in many particulars; ſo that <hi>Morgan</hi> did only giue the Copie of an Accompt, but did accompt thereupon with his Maſter. Neither is any of the other pretences, a releaſe for the time paſt.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1612. 23. <hi>May.</hi>
+               </note> Morgan <hi>deliuered to</hi> Bowdler <hi>and</hi> Company, <hi>his laſt generall Accompt, and therein did ſet downe the particulars of</hi> 37794. <hi>l.</hi> 4. <hi>s.</hi> 7. <hi>d. Flemiſh Money, which is</hi> 22600. <hi>l. ſterling then owing by them by exchange and at intereſt; whereof</hi> 6251. <hi>l.</hi> 10. <hi>s.</hi> 2. <hi>d. Flemiſh, which is ſterling</hi> 3460. <hi>l. was due to</hi> Morgan, <hi>and forthe reſidue,</hi> Morgan <hi>was then engaged as their Factor.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> 
+               <hi>Morgan</hi> did not deliuer this laſt generall Accompt before <hi>March,</hi> the 23. <hi>An.</hi> 1612. which was 10. monethes after the time pretended; Neyther doth this Accompt containe the particulars of 37794. l. 4. s. 7. d. Flemiſh, of debt then owing, whererin <hi>Morgan</hi> pretends hee was ingaged. Forthe collection of debts therein made to be owing amounts to but 10180. l. 14. s. 3. d. to Strangers: and 6251. l. 10. s. 2. d. to himſelfe, againſt which laſt ſome he maketh recei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with his owne hand in the ſaid Accompt, 5266. l. 10. s. 8. d. in part thereof; neyther was hee engaged for all the reſt; but all Accompts beeing audited hee is fourd indebted to <hi>Bowdler.</hi>
+            </p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1612. 29. <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</hi>
+               </note> 
+               <hi>The ſaid laſt generall Accompt was examined and allowed of, and</hi> Bowdler <hi>ſealed vnto</hi> Morgan <hi>a generall Releaſe.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> The ſaid Accompt could not be examined vpon the 29. of <hi>May</hi> 1612. which was not giuen vntill ten moneths after <hi>May,</hi> neyther was it examined in ſome time after, nor euer allowed. But it is true, that <hi>Bowldler</hi> ſealed a generall releaſe to <hi>Morgan</hi> vpon the 29. of <hi>May,</hi> aforeſaid: which was only vpon truſt and conficience of <hi>Morgans</hi> promiſe to iuſtifie his former Accompts when they ſhould be examined, and to giue vp his laſt generall Accompt within ſhort time after. For <hi>Morgan</hi> pretended that this re<g ref="char:EOLhyphen"/>leaſe would be a meanes to procure him credit from his brother <hi>Francis Morgan</hi> and other friends, whereby to follow his trade and dealing, for which he had ſerued the terme of his Apprentice-hood, vpon proofe of which truſt in the Court of Chancery, he was ordered to accompt notwithſtanding the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id Releaſe.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1612. 31. <hi>May.</hi>
+               </note> Morgan <hi>demanding payment of</hi> Meggs, <hi>hee forſwore his hand to all Bills of exchange produced for aboue</hi> 40000. <hi>l. although ſince hee hath confeſſed, that he ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Bowdler <hi>leaue to ſubſcribe the ſame.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> 
+               <hi>Morgan</hi> did not demand any payment of <hi>Meggs</hi> before <hi>April</hi> 1617. which was fiue yeares after the date aforeſaid: at which tine, Neyther in <hi>May</hi> 1612. were any more of <hi>Meggs</hi> his Bils vnpayd, which <hi>Bowdler</hi> had ſubſcribed but for 940. l. ſterling: and they were all vnder-written by <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ggs</hi> his authoity and with his priuitie. Neyther did <hi>Meggs</hi> deny his authority giuen to <hi>Bowdler</hi> in the ſubſcription; albeit he charged <hi>Bowdler</hi> with his promiſe, of ſauing him harmeleſſe.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1618. 7. <hi>October.</hi>
+               </note> 
+               <hi>One Commiſſion beeing expired, and no end made, the Commiſſioners perſwaded</hi> Morgan <hi>to enter Bond to ſtand to their Award, whch he conſented; prouided, that all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Defendants would doe the like, whereupon,</hi> Meggs, Bowdler, <hi>and</hi> Turner, <hi>only ſealed Bonds, but the rest refuſed, which</hi> Morgan <hi>diſliking, procued a new Cmmiſſion with direction a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the firſt Commiſſion, but they refuſed thereupon to proceed as Coommiſſioners, becauſe</hi> Morgan <hi>was bound, and but three of the Defendants.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> The Commiſſioners did not perſwade <hi>Morgan,</hi> but <hi>Morgan</hi> perſwaded and intreated the Commiſſioners to goe on in an ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itrary courſe: when the firſt Com<g ref="char:EOLhyphen"/>miſſion was expired and he voluntarily did offer to ſeale new Bonds to ſtand to their award; and he did accept of <hi>Meggs, Turner</hi> and <hi>Bowdler</hi> their Bonds without the reſt ſaying, that thoſe were the men he aymed at, and deſired the Commiſſioners to proceed without the other Bonds, as by <hi>Morgans</hi> hand in the Booke of the Commiſſioners ap<g ref="char:EOLhyphen"/>peareth. And touching the refuſall of the Commiſſioners to proceed vpon the Commiſſion, which <hi>Morgan</hi> brought downe; it was becauſe the Lord Chancellor did the next day ſuperſeade the ſame with an other Commiſſion of other content.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1618. 5. <hi>Ianuary.</hi>
+               </note> 
+               <hi>They made an Award, and ordered</hi> Morgan <hi>to ceaſſe all Suits against</hi> Megs, Iones, Eſſington, Barlow, <hi>and Sir</hi> Iohn Bourchier, <hi>with diurs other things not referred to them.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> They did not in their award order any ſuch matter; neyther did meddle with any thing which was not referred.</p>
+            <p>
+               <label>Obiect. </label>
+               <note place="margin">21. <hi>Ianuary.</hi>
+               </note>
+               <hi>The Award was ordered by the Lord Chancellor, to be ſpared for</hi> 11. <hi>Cauſes.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The order for ſuſpending the ſaid Award contaynes but fiue Cauſes, and they are particularly and fully anſwered by the Cerificate of the Commiſſioners, of the ninth of <hi>February,</hi> 1618. yet to giue a particular anſwere to them all; it followeth.</p>
+            <p>
+               <label>Obiect. 1.</label>
+            </p>
+            <p>
+               <hi>THey neuer tooke the Anſwere of</hi> Meggs <hi>and</hi> Bowdler, <hi>to</hi> Morgans <hi>Bill, whereunto they had demurred, which was the first thing directed in t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir Commiſſion.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 1.</label>
+            </p>
+            <p>THe Commiſſioners did often call to <hi>Morgan,</hi> to declare his exceptions to the ſaid anſwers, but he ſaid it ſhould not be needfull; if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey made an Award as he hoped th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would doe. And ſo indeed, at laſt when they had examined all Accompts, and found <hi>Morgan</hi> to be indebted to <hi>Bowdler,</hi> they did t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inke it vnneceſſary.</p>
+            <p>
+               <label>Obiect. 2.</label> 
+               <hi>They did not examine any Witneſſes or Parties during all their proceedings, but only</hi> Iohn Greennowes, <hi>who is deeply engage for</hi> Bowdler, <hi>and being chargeabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe Monies himſelfe, ſweares to free himſelfe by charging</hi> Morgan <hi>therewith.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 2.</label> They did examine or cauſe to be examined at <hi>Hambrough</hi> in <hi>Germany,</hi> one <hi>Iohn Qua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les,</hi> Factor to Alderman <hi>Gore,</hi> whoſe Depoſitions are aſwell returned i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Court, as thoſe of <hi>Iohn Greenowes,</hi> and are vpon Record. Beſides, when <hi>Morgan</hi> refuſed to take his Oath, or to confeſſe the truth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore the Commiſſioners; touchin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> monies pretended by him to haue beene paid to <hi>Bowater, Hoste, Cleaue,</hi> and others, then the Commiſſioners did examine the ſaid partis who did confront <hi>Morgan</hi> face t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> face, and forced him to confeſſe the truth, as by their Certificate vpon Record in Court appeares. Alſo it is to be conſidered that in exarining of Marchants Accompts, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot be ſo full and ſufficient teſtimony produced vpon Oath, as by the comparing of Factors Accompts and Letters, who had weekly Correſpondence one with the othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Laſtly, <hi>Iohn Greenowes</hi> was not chargeable to <hi>Bowdler,</hi> for ſuch mony as hee receiued by <hi>Morgans</hi> appointment, but he rather by his Oa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made himſelfe lyable to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Morgan;</hi> ſo that he did not ſweare to free himſelfe.</p>
+            <p>
+               <label>Obiect. 3.</label> 
+               <hi>The Commiſſioners charged</hi> Morgan <hi>for all ſeuen of the Defendants.</hi>
+            </p>
+            <pb facs="tcp:173375:2"/>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 3</label>. It is vntrue, that he is charged with one peny for any of the Defendants, for the Accompts doe concerne <hi>Bowdler</hi> only; although <hi>Morgan</hi> had maliciouſly made the reſt Defendants.</p>
+            <p>
+               <label>Obiect. 4. </label>
+               <hi>They charged</hi> Morgan <hi>alſo for three others, viz.</hi> Paſfijld, Greenowes, <hi>and</hi> Aniſcombe Bowdlers <hi>Factors, who were meere ſtrangers to the Suite, and to their Ar<g ref="char:EOLhyphen"/>bitrement.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 4.</label> Theſe three Factors had conti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uall weekly dealings, and intercourſe with <hi>Morgan</hi> touching receits and payments of mony each for other, and Accompts paſſed betweene them and <hi>Bowdler,</hi> and <hi>Morgan;</hi> ſo that neceſſarily <hi>Morgan</hi> muſt be charged with ſuch ſummes of money, as the ſaid Factors or any of them did pay to him or by his appointment, as on the other ſide, the Commiſſioners diſcharged <hi>M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gan</hi> of ſuch monies as he paid for <hi>Bowdler</hi> to the ſaid Factors.</p>
+            <p>
+               <label>Obiect. 5.</label> 
+               <hi>The Commiſſioners allowed</hi> Bowdler <hi>diuers great ſummes which they pretend</hi> Morgan <hi>receiued for</hi> Bowdler, <hi>in</hi> Anno 1607. <hi>and</hi> 1608. <hi>which is before the time that</hi> Bowdler <hi>demands reliefe by his owne Bill, for he pretends Errors of</hi> 1609. 1610. 1611. &amp; 1612. only.</p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 5.</label> There is but only one parcell allowed to <hi>Bowdler</hi> before <hi>Anno</hi> 1609. which is only for 112. l. 13. s. 4. Flemiſh money, and it was apparently proued to the Com<g ref="char:EOLhyphen"/>miſſioners againſt <hi>Morgan</hi> by his owne Letters that he was to be charged with it. Beſides, before the Commiſſioners did enter into examination of the Accompts and diffe<g ref="char:EOLhyphen"/>rences of the parties, they cauſed each party to ſet downe in writing his demands againſt the other, at which time <hi>Morgan</hi> made no ſuch exception.</p>
+            <p>
+               <label>Obiect. 6.</label> 
+               <hi>The Commiſſioners Awarded</hi> Morgan <hi>to allow to</hi> Bowdler <hi>great ſummes which hee neuer demanded by Bill or otherwiſe; which</hi> Morgan <hi>neuer heard off till after their Award, whereby hee could not anſwere them.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 6.</label> This accuſation is moſt falſe, For the Commiſſioners haue not allowed to <hi>Bowdler</hi> any one ſumme, which at the firſt meeting before the Commiſſioners, was not demanded in writing but they haue giuen <hi>Bowdler</hi> much ſhort of his demands, and cauſed him to particularize his demands of intereſt, whereby the ſummes are varyed from the firſt demand, and made leſſe, but not more then at the firſt, and likewiſe a Copie of the ſaid demands was giuen to <hi>Morgan,</hi> and he did anſwere thereunto before the Commiſſioners.</p>
+            <p>
+               <label>Obiect. 7. </label>
+               <hi>They allowed to</hi> Bowdler 8000. <hi>l. more then he did demand by Bill, for he demands but</hi> 3000. <hi>l. and they haue giuen him</hi> 11000 <hi>l.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 7.</label> The Commiſſioners according to the manner of Marchants; at firſt meeting required both parties to expreſſe their demands in writings, and accordingly they proceeded in the examining of their Accompts; for the order of reference to the Commiſſioners, was to examine the Accompts and not the Bill. Alſo <hi>Bowdler</hi> demands by Bill: reliefe for 3000. l. which <hi>Morgan</hi> ſhould owe him; accompting it ouer and aboue all that <hi>Morgan</hi> had payd for him; of which kinde of payments, the Commiſſio<g ref="char:EOLhyphen"/>ners allowed to <hi>Morgan,</hi> 8000. l. Flemiſh at the leaſt. Beſides, by way of accompt exhibited in writing before the Commiſſioners, <hi>Bowdler</hi> did demand much more then 11000. l.</p>
+            <p>
+               <label>Obiect. 8. </label>
+               <hi>They Awarded, Turner, and his Company to free</hi> Morgan <hi>from</hi> Peter Courten, <hi>and</hi> 40. <hi>other Creditors of theirs in all for aboue</hi> 18000. <hi>l. ſterling, yet they neuer mention who that Companie was for thoſe that truly were of that Company, viz.</hi> Meggs, Iones, Eſſington, Barlow, <hi>and Sir</hi> Iohn Bourchier, <hi>they Award</hi> Morgan <hi>to ceaſſe all Suites against them by name, but order not them to ceaſſe Suite againſt</hi> Morgan.</p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 8.</label> Firſt, of the pretended ſome of 18000. l. there was paid to <hi>Courten</hi> 12000. l. and diuers other ſummes to other men; but <hi>Morgan</hi> was neuer engaged for any part thereof, except to <hi>Courten,</hi> although to ſatisfie his clamorous di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſition, the Commiſſioners did Award him to bee ſaued harmeleſſe.</p>
+            <p>Secondly, <hi>Morgan</hi> had the ſame ſecuritie vnder the name of <hi>Bowdler</hi> and his company which his Letter of Attorney did mention; and he did know the company better then the Commiſsioners.</p>
+            <p>Thirdly, <hi>Meggs, Eſſington</hi> and <hi>Barlow</hi> were none of the Company. Neither did the Commiſsioners order that <hi>Morgan</hi> ſhould releaſe to them or to Sir <hi>Iohn Bourchier,</hi> as truely is alleaged.</p>
+            <p>
+               <label>Obiect. 9. </label>
+               <hi>They Awarded</hi> Morgan <hi>to ſeale a Releaſe vnto</hi> Bowdler, <hi>whereby</hi> Bowdlers <hi>Counterbond of a</hi> 1000. <hi>l. ſealed to</hi> Morgan <hi>to ſaue him harmeleſſe of the Bond of</hi> 50 <hi>which he ſealed to</hi> Meggs, <hi>for</hi> Bowdler <hi>ſhould be diſcharged without giuing</hi> Morgan <hi>any allowance for it, or Awarding</hi> Meggs <hi>to deliuer vp the ſaid Bond, or ſeale</hi> Morgan <hi>a Rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 9.</label> By order of Court at the Rolles vpon the 22. of <hi>April</hi> 1618. it was ordered that the Accompts betweene <hi>Bowdler</hi> and <hi>Morgan</hi> being then vnder exam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion, before Maſter <hi>Barkehouſe</hi> and other Commiſſioners; if vpon perfecting of the ſaid Examination it ſhould appeare that <hi>Morgan</hi> was indebted to <hi>Bowdler</hi> 500. l. or<g ref="char:EOLunhyphen"/>der; then hee ſhould pay to <hi>Meggs</hi> ſo much as he ſhould be to <hi>Bowdler</hi> indebted and no more; but if <hi>Bowdler</hi> were found indebted to <hi>Morgan,</hi> then the Bond of <hi>Morgan Meggs</hi> of 500. l. ſhould bee cancelled; Now conſidering this order and that <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgan</hi> had only ſealed Bond before theſe Commiſſioners to pay to <hi>Meggs.</hi> Wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be found indebted to <hi>Bowdler,</hi> and not to p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Bowdler</hi> any thing; he is not wronged by this Award in this point. For by <hi>Morgans</hi> paying of the Awarded ſum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Meggs,</hi> his Bond is diſcharged, and he being found in <hi>Bowdlers</hi> debt; <hi>Bowdlers</hi> counter-bond ought to be diſcharged.</p>
+            <p>
+               <label>Obiect. 10. </label>
+               <hi>They Award</hi> Morgan <hi>to pay</hi> 579. <hi>l.</hi> 6. <hi>s.</hi> 0. <hi>vnto</hi> Bowdler <hi>within three monethes; yet they limit</hi> Bowdler, Turner, <hi>and his Company no time to free</hi> Morgan <hi>of ingagements for them, for aboue</hi> 18000. <hi>l. ſterling.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 10.</label> The engagements are only imaginary and not reall; yet the Commiſſioners did prouide; that if any ſuite were commenced againſt <hi>Morgan;</hi> hee ſhoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof ſaued harmeleſſe; from time to time vpon notice by him giuen to <hi>Bowdler</hi> or <hi>Turner,</hi> of the ſaid ſuite, &amp;c. If they fayled herein; he might take remedy vpon th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bonds according to the Award. For the Commiſſioners did not order <hi>Morgan</hi> to ſeale any releaſe to them or they to him before; all Articles of their Award were reſpectiue<g ref="char:EOLhyphen"/>ly performed.</p>
+            <p>
+               <label>Obiect. 11. </label>
+               <hi>Lastly, the Commiſſioners did not purſue the directions of their Commiſſion in any one particular, but did proceed moſt erroniouſly.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> 11. They did not vary from the directions of the Court in any thing, except by the intreatie and conſen of all parties, as by their Certifcate of the ninth of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1618. appeareth. Beſides, being at laſt, become Arbitrators; and the ſaid courſe vndertaken by perſwaſion of all parties and Bonds mutuall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſealed to abide their Award; they were no longer bound to the formall proceedings, and directions of the Court; but for their better ſatisfaction they might proce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as Marchants in t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> examination of Marchants Accompts.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">1618. 6. <hi>February.</hi>
+               </note> 
+               <hi>The fiue Arbitrators petitioned the Lord Chancellor that they might not certifie the particulars of their Award.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> This is moſt vntrue, for at this time they were not ordered to certifie any particulars, and did not require any other thing of the Lord C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancellor, but that they might keepe their day Booke and other Papers, whereby they might be able at all times to iuſtifie their Award, and to ſhew the Reaſons thereof.</p>
+            <p>
+               <label>Obiect.</label>
+               <note place="margin">19. <hi>Februay.</hi>
+               </note> 
+               <hi>The Commiſſioners or Arbitrators would not obey any of the orders of Court for redeliuery of</hi> Morgans <hi>Papers.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> As <hi>Morgan</hi> vpon one day procured an order which commanded the redeliuery, ſo <hi>Bowdler</hi> the next day procured a counter-mand. But at <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct when the order wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſetled they did obey.</p>
+            <p>
+               <label>Obiect. </label>
+               <note place="margin">1619. 15. <hi>Aprilis.</hi> 16. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne.</hi>
+               </note>
+               <hi>The Commiſſioners being ordered to certifie to the Court, the Reaſons of their Award, they ſtill refuſed vntill</hi> Morgan <hi>forced them by an Attachmen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the</hi> 20. <hi>of</hi> Iuly, 1619.</p>
+            <p>
+               <label>Anſ.</label> They were neuer ſerued with Attachment; neither was their any cauſe why <hi>Morgan</hi> ſhould preſſe them to bring in their Reaſons, for that order was begot vpon the motion of <hi>Bowdlers</hi> Councell and not of <hi>Morgans;</hi> beſides, the ſaid order for certifying the particular Reaſons of their Award was made but vpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the 16. of <hi>Iune</hi> 1619. And they returned a Certificate vpon the fift day of <hi>August</hi> following, which contayned the particuler labours of 160. dayes ſpent in that examin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, and filled 150. ſheets of Paper, ſo that leſſe time could not bee allowed for ſuch a Certificate which was ſo exactly and fully declared.</p>
+            <p>
+               <label>Obiect. </label>
+               <note place="margin">1619. 5. <hi>Auguſt.</hi>
+               </note>
+               <hi>They certifie the particulars of their Award, and certifie that Master</hi> William Towerſon, <hi>and Master</hi> Ralph Freeman, <hi>were priuie to all the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ſaid Proceedings.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> They did not certifie them to bee priuy to all their proceedings, but did particularly ſet downe what parcels they were priuie vnto.</p>
+            <p>
+               <label>Obiect. </label>
+               <note place="margin">18. <hi>Decemb.</hi>
+               </note>
+               <hi>That ſix other Commiſſioners were appointed, who aſſiſted with the Auditor of the Chancery, were to examine all Accompts, Letters and Writings, as alſo the Award of the Arbitrators.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> It is true that ſix other Commiſſioners were appointed, but two of them were Maſters of the Court, and appointed to be continually preſert, or no meeting with<g ref="char:EOLhyphen"/>out them, who out of their formalitie, ouer-ruled the Marchants. And the order of Reference made vnto theſe Committees was ſo full of reſtriction, that thereby <hi>Morgan</hi> falſe Accompts could not be perfectly diſcouered, neither could the truth of <hi>Bowdlers</hi> caſe be made apparant, as by the order it ſelfe appeareth. And the ſaid Commitees, be<g ref="char:EOLhyphen"/>cauſe the Certificate of the firſt Commiſſioners was damned by the Lord Chancellor, before he referred the conſideration thereof vnto them, therefore they could not allow of their teſtimonie in the ſaid Certificate; ſo that it was to no purpoſe that they were to examine it. And likewiſe other Accompts, Letters and Writings of Factors could not be admitted, becauſe not proued in Court.</p>
+            <p>
+               <label>Obiect. </label>
+               <hi>That the ſix last Committees with the Auditor had often conference with the first Arbitrators.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label>
+               <note place="margin">13. <hi>Marc.</hi>
+               </note> The Committees and the Arbitrators neuer had meeting together, for Maſter <hi>Towerſon</hi> one of the laſt Committees, did often mooue the Maſters of the Court that they might haue called the Arbitrators vnto them; but they would not conſent thereunto.</p>
+            <p>
+               <label>Obiect. </label>
+               <hi>The Cauſe being heard in open Court, in preſence of all parties and their Councell, neither partie nor Councell denyed the truth of the laſt Certificate, as by order appeares.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label>
+               <note place="margin">1620. 6. <hi>May.</hi>
+               </note> Many Obiections were made againſt the ſaid Certificate, by euery one of the parties, and alſo their Councell; albeit the order doth vntruly otherwiſe declare, but the corruptions of thoſe times was ſuch that truth could take no place, either in orders or otherwiſe.</p>
+            <p>
+               <label>Obiect. </label>
+               <hi>The Cauſe being heard i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> open Court, it was finally decreed.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label>
+               <note place="margin">19. <hi>Iune.</hi> 24. <hi>Dict<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> The Decree was made after the 26. of <hi>Iune,</hi> but not in open Court, neither at a Seale, but very priuately in my Lords Chamber, no one of the parties beeing preſent at the pronouncing thereof.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
